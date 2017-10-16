@@ -8,6 +8,7 @@ Features:
 	-UP TO 2 DIGIT INPUT FOR BOTH OPERANDS
 	-Regards Negative Output
 	-Regards Undefined Output when dividing a number by 0
+	-It's pink :D
 
 Bugs I can't fix because I'm too stupid:
 	-Limiting user input to avoid accepting more than 2 digits but it 
