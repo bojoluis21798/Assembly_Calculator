@@ -1,5 +1,16 @@
 Calculator written in x86 Assembly Language
 with GUI and mouse controls
 
-
 Assembler: a86
+
+Features:
+	-Basic Arithmetic Operations
+	-UP TO 2 DIGIT INPUT FOR BOTH OPERANDS
+	-Regards Negative Output
+	-Regards Undefined Output when dividing a number by 0
+
+Bugs I can't fix because I'm too stupid:
+	-Limiting user input to avoid accepting more than 2 digits but it 
+	crashes when there's an input overflow of 3 digits or more digits for both operands.
+	-Limiting user input to avoid accepting more than 1 operator after accepting the first operand,
+	crashes when there's an input overflow of 3 operators or more.
