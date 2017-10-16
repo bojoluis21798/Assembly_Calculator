@@ -14,3 +14,5 @@ Bugs I can't fix because I'm too stupid:
 	-Limiting user input to avoid accepting more than 2 digits but it crashes when there's an input overflow of more than 3 digits for both operands.
 	-Limiting user input to avoid accepting more than 1 operator after accepting the first operand,
 	crashes when there's an input overflow of more than 3 operators.
+
+![UI Screenshot](/Capture.PNG?raw=true "Calculator UI)
